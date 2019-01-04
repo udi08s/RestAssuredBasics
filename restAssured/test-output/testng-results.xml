@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4275" started-at="2019-01-04T10:00:29Z" finished-at="2019-01-04T10:00:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4275" started-at="2019-01-04T10:00:29Z" finished-at="2019-01-04T10:00:33Z">
+      <class name="com.testingfoo.restAssured.GetReqRes">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.testingfoo.restAssured.GetReqRes@458ad742]" name="test" duration-ms="4240" started-at="2019-01-04T15:30:29Z" finished-at="2019-01-04T15:30:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.testingfoo.restAssured.GetReqRes -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
